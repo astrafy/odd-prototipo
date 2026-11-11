@@ -331,7 +331,7 @@
     proyeccion: 'Producción acumulada + ritmo reciente × tiempo restante, comparado con el plan del turno',
     scrap: 'Unidades rechazadas / unidades procesadas, por línea, referencia y turno',
     fpy: 'Unidades buenas sin retrabajo / unidades iniciadas',
-    spc: 'Número y duración de señales fuera de control (reglas de Western Electric) por variable crítica y línea',
+    spc: 'Número y duración de señales fuera de control (reglas de Western Electric; el prototipo muestra las reglas 1 a 3, el diseño aplica de la 1 a la 4) por variable crítica y línea',
     paradas: 'Minutos de parada no planificada por línea y turno',
     preventivo: 'Órdenes de preventivo vencidas en equipos críticos de las líneas del piloto',
     pareto: 'Pareto de scrap por causa codificada, línea y referencia',
